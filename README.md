@@ -2,7 +2,7 @@
 
 __Exploring Kotlin Multiplatform and Compose Multiplatform__.
 
-###🎍 Welcome to my hub 👨‍💻
+#🎍 Welcome to my Profile 👨‍💻
 
 - 👨‍💻 I develop Mobile apps
 - Loves 🎵.
